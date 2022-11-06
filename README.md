@@ -48,4 +48,4 @@
 
  Note: This Tool Is Free So You Don't Need Any Permission To Use VELOX's SMS-BOMBING TOOL..Enjoy)<b></b></br>
 [![Facebook](https://img.shields.io/badge/Facebook-VELOX-blue?style=flat-square&logo=facebook)](https://www.facebook.com/V3L0X.ME)</br>
- [CODED BY VELOX]
+ ` [ CODED BY VELOX ] `
