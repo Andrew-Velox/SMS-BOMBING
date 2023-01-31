@@ -1,7 +1,8 @@
 # SMS-BOMBING
 🐸 SMS BOMBING 🐸
 
-<b></b><br> [![Facebook](https://img.shields.io/badge/Facebook-VELOX-blue?style=flat-square&logo=facebook)](https://www.facebook.com/V3L0X.ME)<br> [![WhatsApp](https://img.shields.io/badge/WhatsApp-VELOX-blue?style=flat-square&logo=WhatsApp)](https://chat.whatsapp.com/KaOw5reZB5KJqBZtvvP0Fk)
+<b></b><br> [![Facebook](https://img.shields.io/badge/Facebook-VELOX-blue?style=flat-square&logo=facebook)](https://www.facebook.com/V3L0X.ME)<br> 
+<!----[![WhatsApp](https://img.shields.io/badge/WhatsApp-VELOX-blue?style=flat-square&logo=WhatsApp)](https://chat.whatsapp.com/KaOw5reZB5KJqBZtvvP0Fk) -->
 
 
 <h1 align="center"> VELOX-XD </h1>
@@ -10,7 +11,7 @@
 <h3 align="center">  SMS-BOMBING TOOL  </h3>
 
 
-![20200808_160757](https://github.com/Andrew-Velox/SMS-BOMBING/blob/main/IMG_20221106_163131.jpg)
+![20200808_160757](https://github.com/Andrew-Velox/SMS-BOMBING/blob/main/ss.jpg)
 
 
 ## <b>Installation</b>
